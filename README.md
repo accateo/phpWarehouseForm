@@ -7,3 +7,6 @@ Each time the data is entered in the forms, an e-mail notice is also sent.
 1. PHP
 2. HTML,CSS
 3. Javascript 
+
+
+![Screenshot](/img/screenshot.PNG)
